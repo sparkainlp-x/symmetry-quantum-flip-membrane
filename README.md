@@ -33,3 +33,7 @@ symmetry-flip-science
 ## Licence and credits
 
 AGPL-3.0-only. Project author: Jean-Francois Brisson only. Mun Seok Lee is cited as inspiration only, not as co-author, because this package contains no Digital to Wave, Coherent Sequence, C_seq, or OES-32 code.
+
+## Game
+
+[Symmetry Flip Membrane game](https://muse.ai/s/symmetry-flip-membrane-game-bxf6i6xu3xgxsxvxh/S6yYUYK2IDAkMkIV6tlHZ7bBGvgOvtnjaKzBdcnzB7Q)
