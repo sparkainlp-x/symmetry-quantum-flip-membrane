@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "symmetry-quantum-flip-membrane"
+version = "0.1.0"
+description = "Symmetry, quantum-flip analogue, and predictive holographic membrane toy (stdlib only, synthetic only)"
+requires-python = ">=3.10"
+license = "AGPL-3.0-only"
+dependencies = []
+
+[project.scripts]
+symmetry-flip-demo = "symmetry_quantum_flip_membrane.demo:main"
+symmetry-flip-science = "symmetry_quantum_flip_membrane.full_science:_cli"
+
+[tool.setuptools.packages.find]
+where = ["src"]
